@@ -9,7 +9,21 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!").padding()
+		HStack {
+			Spacer()
+			Circle()
+				.frame(width: 50, height: 50)
+			Spacer()
+			Circle()
+				.frame(width: 50, height: 50)
+			Spacer()
+			Circle()
+				.frame(width: 50, height: 50)
+			Spacer()
+			Circle()
+				.frame(width: 50, height: 50)
+			Spacer()
+		}
     }
 }
 
