@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		63637C6024F6DD2D005450B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63637C5F24F6DD2D005450B6 /* AppDelegate.swift */; };
-		63637C6224F6DD2D005450B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63637C6124F6DD2D005450B6 /* SceneDelegate.swift */; };
-		63637C6424F6DD2D005450B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63637C6324F6DD2D005450B6 /* ContentView.swift */; };
-		63637C6624F6DD2E005450B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63637C6524F6DD2E005450B6 /* Assets.xcassets */; };
-		63637C6924F6DD2E005450B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63637C6824F6DD2E005450B6 /* Preview Assets.xcassets */; };
-		63637C6C24F6DD2E005450B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63637C6A24F6DD2E005450B6 /* LaunchScreen.storyboard */; };
-		63637C7424F6E076005450B6 /* ZStackPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63637C7324F6E076005450B6 /* ZStackPractice.swift */; };
+		632C06CE24F6ED97005BDAEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632C06CD24F6ED97005BDAEA /* AppDelegate.swift */; };
+		632C06D024F6ED97005BDAEA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632C06CF24F6ED97005BDAEA /* SceneDelegate.swift */; };
+		632C06D224F6ED97005BDAEA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632C06D124F6ED97005BDAEA /* ContentView.swift */; };
+		632C06D424F6ED98005BDAEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 632C06D324F6ED98005BDAEA /* Assets.xcassets */; };
+		632C06D724F6ED98005BDAEA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 632C06D624F6ED98005BDAEA /* Preview Assets.xcassets */; };
+		632C06DA24F6ED98005BDAEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 632C06D824F6ED98005BDAEA /* LaunchScreen.storyboard */; };
+		632C06E224F6EFCC005BDAEA /* LayersPractical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632C06E124F6EFCC005BDAEA /* LayersPractical.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		63637C5C24F6DD2D005450B6 /* ZStackMastery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZStackMastery.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		63637C5F24F6DD2D005450B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		63637C6124F6DD2D005450B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		63637C6324F6DD2D005450B6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		63637C6524F6DD2E005450B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		63637C6824F6DD2E005450B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		63637C6B24F6DD2E005450B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		63637C6D24F6DD2E005450B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		63637C7324F6E076005450B6 /* ZStackPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackPractice.swift; sourceTree = "<group>"; };
+		632C06CA24F6ED97005BDAEA /* LayersMastery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LayersMastery.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		632C06CD24F6ED97005BDAEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		632C06CF24F6ED97005BDAEA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		632C06D124F6ED97005BDAEA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		632C06D324F6ED98005BDAEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		632C06D624F6ED98005BDAEA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		632C06D924F6ED98005BDAEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		632C06DB24F6ED98005BDAEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		632C06E124F6EFCC005BDAEA /* LayersPractical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayersPractical.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		63637C5924F6DD2D005450B6 /* Frameworks */ = {
+		632C06C724F6ED97005BDAEA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,41 +39,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		63637C5324F6DD2D005450B6 = {
+		632C06C124F6ED97005BDAEA = {
 			isa = PBXGroup;
 			children = (
-				63637C5E24F6DD2D005450B6 /* ZStackMastery */,
-				63637C5D24F6DD2D005450B6 /* Products */,
+				632C06CC24F6ED97005BDAEA /* LayersMastery */,
+				632C06CB24F6ED97005BDAEA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		63637C5D24F6DD2D005450B6 /* Products */ = {
+		632C06CB24F6ED97005BDAEA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				63637C5C24F6DD2D005450B6 /* ZStackMastery.app */,
+				632C06CA24F6ED97005BDAEA /* LayersMastery.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		63637C5E24F6DD2D005450B6 /* ZStackMastery */ = {
+		632C06CC24F6ED97005BDAEA /* LayersMastery */ = {
 			isa = PBXGroup;
 			children = (
-				63637C5F24F6DD2D005450B6 /* AppDelegate.swift */,
-				63637C6124F6DD2D005450B6 /* SceneDelegate.swift */,
-				63637C7324F6E076005450B6 /* ZStackPractice.swift */,
-				63637C6324F6DD2D005450B6 /* ContentView.swift */,
-				63637C6524F6DD2E005450B6 /* Assets.xcassets */,
-				63637C6A24F6DD2E005450B6 /* LaunchScreen.storyboard */,
-				63637C6D24F6DD2E005450B6 /* Info.plist */,
-				63637C6724F6DD2E005450B6 /* Preview Content */,
+				632C06CD24F6ED97005BDAEA /* AppDelegate.swift */,
+				632C06CF24F6ED97005BDAEA /* SceneDelegate.swift */,
+				632C06D124F6ED97005BDAEA /* ContentView.swift */,
+				632C06D324F6ED98005BDAEA /* Assets.xcassets */,
+				632C06D824F6ED98005BDAEA /* LaunchScreen.storyboard */,
+				632C06DB24F6ED98005BDAEA /* Info.plist */,
+				632C06D524F6ED98005BDAEA /* Preview Content */,
+				632C06E124F6EFCC005BDAEA /* LayersPractical.swift */,
 			);
-			path = ZStackMastery;
+			path = LayersMastery;
 			sourceTree = "<group>";
 		};
-		63637C6724F6DD2E005450B6 /* Preview Content */ = {
+		632C06D524F6ED98005BDAEA /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				63637C6824F6DD2E005450B6 /* Preview Assets.xcassets */,
+				632C06D624F6ED98005BDAEA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -81,38 +81,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		63637C5B24F6DD2D005450B6 /* ZStackMastery */ = {
+		632C06C924F6ED97005BDAEA /* LayersMastery */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 63637C7024F6DD2E005450B6 /* Build configuration list for PBXNativeTarget "ZStackMastery" */;
+			buildConfigurationList = 632C06DE24F6ED98005BDAEA /* Build configuration list for PBXNativeTarget "LayersMastery" */;
 			buildPhases = (
-				63637C5824F6DD2D005450B6 /* Sources */,
-				63637C5924F6DD2D005450B6 /* Frameworks */,
-				63637C5A24F6DD2D005450B6 /* Resources */,
+				632C06C624F6ED97005BDAEA /* Sources */,
+				632C06C724F6ED97005BDAEA /* Frameworks */,
+				632C06C824F6ED97005BDAEA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ZStackMastery;
-			productName = ZStackMastery;
-			productReference = 63637C5C24F6DD2D005450B6 /* ZStackMastery.app */;
+			name = LayersMastery;
+			productName = LayersMastery;
+			productReference = 632C06CA24F6ED97005BDAEA /* LayersMastery.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		63637C5424F6DD2D005450B6 /* Project object */ = {
+		632C06C224F6ED97005BDAEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
-					63637C5B24F6DD2D005450B6 = {
+					632C06C924F6ED97005BDAEA = {
 						CreatedOnToolsVersion = 12.0;
 					};
 				};
 			};
-			buildConfigurationList = 63637C5724F6DD2D005450B6 /* Build configuration list for PBXProject "ZStackMastery" */;
+			buildConfigurationList = 632C06C524F6ED97005BDAEA /* Build configuration list for PBXProject "LayersMastery" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -120,48 +120,48 @@
 				en,
 				Base,
 			);
-			mainGroup = 63637C5324F6DD2D005450B6;
-			productRefGroup = 63637C5D24F6DD2D005450B6 /* Products */;
+			mainGroup = 632C06C124F6ED97005BDAEA;
+			productRefGroup = 632C06CB24F6ED97005BDAEA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				63637C5B24F6DD2D005450B6 /* ZStackMastery */,
+				632C06C924F6ED97005BDAEA /* LayersMastery */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		63637C5A24F6DD2D005450B6 /* Resources */ = {
+		632C06C824F6ED97005BDAEA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63637C6C24F6DD2E005450B6 /* LaunchScreen.storyboard in Resources */,
-				63637C6924F6DD2E005450B6 /* Preview Assets.xcassets in Resources */,
-				63637C6624F6DD2E005450B6 /* Assets.xcassets in Resources */,
+				632C06DA24F6ED98005BDAEA /* LaunchScreen.storyboard in Resources */,
+				632C06D724F6ED98005BDAEA /* Preview Assets.xcassets in Resources */,
+				632C06D424F6ED98005BDAEA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		63637C5824F6DD2D005450B6 /* Sources */ = {
+		632C06C624F6ED97005BDAEA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63637C6024F6DD2D005450B6 /* AppDelegate.swift in Sources */,
-				63637C6224F6DD2D005450B6 /* SceneDelegate.swift in Sources */,
-				63637C7424F6E076005450B6 /* ZStackPractice.swift in Sources */,
-				63637C6424F6DD2D005450B6 /* ContentView.swift in Sources */,
+				632C06CE24F6ED97005BDAEA /* AppDelegate.swift in Sources */,
+				632C06D024F6ED97005BDAEA /* SceneDelegate.swift in Sources */,
+				632C06D224F6ED97005BDAEA /* ContentView.swift in Sources */,
+				632C06E224F6EFCC005BDAEA /* LayersPractical.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		63637C6A24F6DD2E005450B6 /* LaunchScreen.storyboard */ = {
+		632C06D824F6ED98005BDAEA /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				63637C6B24F6DD2E005450B6 /* Base */,
+				632C06D924F6ED98005BDAEA /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -169,7 +169,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		63637C6E24F6DD2E005450B6 /* Debug */ = {
+		632C06DC24F6ED98005BDAEA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		63637C6F24F6DD2E005450B6 /* Release */ = {
+		632C06DD24F6ED98005BDAEA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,42 +285,42 @@
 			};
 			name = Release;
 		};
-		63637C7124F6DD2E005450B6 /* Debug */ = {
+		632C06DF24F6ED98005BDAEA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"ZStackMastery/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"LayersMastery/Preview Content\"";
 				DEVELOPMENT_TEAM = P7DFWNNEL3;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = ZStackMastery/Info.plist;
+				INFOPLIST_FILE = LayersMastery/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.github.chadarutherford.ZStackMastery;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.chadarutherford.LayersMastery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		63637C7224F6DD2E005450B6 /* Release */ = {
+		632C06E024F6ED98005BDAEA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"ZStackMastery/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"LayersMastery/Preview Content\"";
 				DEVELOPMENT_TEAM = P7DFWNNEL3;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = ZStackMastery/Info.plist;
+				INFOPLIST_FILE = LayersMastery/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.github.chadarutherford.ZStackMastery;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.chadarutherford.LayersMastery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -330,25 +330,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		63637C5724F6DD2D005450B6 /* Build configuration list for PBXProject "ZStackMastery" */ = {
+		632C06C524F6ED97005BDAEA /* Build configuration list for PBXProject "LayersMastery" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				63637C6E24F6DD2E005450B6 /* Debug */,
-				63637C6F24F6DD2E005450B6 /* Release */,
+				632C06DC24F6ED98005BDAEA /* Debug */,
+				632C06DD24F6ED98005BDAEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63637C7024F6DD2E005450B6 /* Build configuration list for PBXNativeTarget "ZStackMastery" */ = {
+		632C06DE24F6ED98005BDAEA /* Build configuration list for PBXNativeTarget "LayersMastery" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				63637C7124F6DD2E005450B6 /* Debug */,
-				63637C7224F6DD2E005450B6 /* Release */,
+				632C06DF24F6ED98005BDAEA /* Debug */,
+				632C06E024F6ED98005BDAEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 63637C5424F6DD2D005450B6 /* Project object */;
+	rootObject = 632C06C224F6ED97005BDAEA /* Project object */;
 }

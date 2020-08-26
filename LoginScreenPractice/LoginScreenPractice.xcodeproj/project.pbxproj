@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		63637C6024F6DD2D005450B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63637C5F24F6DD2D005450B6 /* AppDelegate.swift */; };
-		63637C6224F6DD2D005450B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63637C6124F6DD2D005450B6 /* SceneDelegate.swift */; };
-		63637C6424F6DD2D005450B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63637C6324F6DD2D005450B6 /* ContentView.swift */; };
-		63637C6624F6DD2E005450B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63637C6524F6DD2E005450B6 /* Assets.xcassets */; };
-		63637C6924F6DD2E005450B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63637C6824F6DD2E005450B6 /* Preview Assets.xcassets */; };
-		63637C6C24F6DD2E005450B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63637C6A24F6DD2E005450B6 /* LaunchScreen.storyboard */; };
-		63637C7424F6E076005450B6 /* ZStackPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63637C7324F6E076005450B6 /* ZStackPractice.swift */; };
+		633D63EE24F6FD2D00D471AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633D63ED24F6FD2D00D471AC /* AppDelegate.swift */; };
+		633D63F024F6FD2D00D471AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633D63EF24F6FD2D00D471AC /* SceneDelegate.swift */; };
+		633D63F224F6FD2D00D471AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633D63F124F6FD2D00D471AC /* ContentView.swift */; };
+		633D63F424F6FD2E00D471AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 633D63F324F6FD2E00D471AC /* Assets.xcassets */; };
+		633D63F724F6FD2E00D471AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 633D63F624F6FD2E00D471AC /* Preview Assets.xcassets */; };
+		633D63FA24F6FD2E00D471AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 633D63F824F6FD2E00D471AC /* LaunchScreen.storyboard */; };
+		633D640324F6FE1000D471AC /* Login1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633D640224F6FE1000D471AC /* Login1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		63637C5C24F6DD2D005450B6 /* ZStackMastery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZStackMastery.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		63637C5F24F6DD2D005450B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		63637C6124F6DD2D005450B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		63637C6324F6DD2D005450B6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		63637C6524F6DD2E005450B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		63637C6824F6DD2E005450B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		63637C6B24F6DD2E005450B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		63637C6D24F6DD2E005450B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		63637C7324F6E076005450B6 /* ZStackPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackPractice.swift; sourceTree = "<group>"; };
+		633D63EA24F6FD2D00D471AC /* LoginScreenPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginScreenPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		633D63ED24F6FD2D00D471AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		633D63EF24F6FD2D00D471AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		633D63F124F6FD2D00D471AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		633D63F324F6FD2E00D471AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		633D63F624F6FD2E00D471AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		633D63F924F6FD2E00D471AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		633D63FB24F6FD2E00D471AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		633D640224F6FE1000D471AC /* Login1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		63637C5924F6DD2D005450B6 /* Frameworks */ = {
+		633D63E724F6FD2D00D471AC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,80 +39,88 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		63637C5324F6DD2D005450B6 = {
+		633D63E124F6FD2D00D471AC = {
 			isa = PBXGroup;
 			children = (
-				63637C5E24F6DD2D005450B6 /* ZStackMastery */,
-				63637C5D24F6DD2D005450B6 /* Products */,
+				633D63EC24F6FD2D00D471AC /* LoginScreenPractice */,
+				633D63EB24F6FD2D00D471AC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		63637C5D24F6DD2D005450B6 /* Products */ = {
+		633D63EB24F6FD2D00D471AC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				63637C5C24F6DD2D005450B6 /* ZStackMastery.app */,
+				633D63EA24F6FD2D00D471AC /* LoginScreenPractice.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		63637C5E24F6DD2D005450B6 /* ZStackMastery */ = {
+		633D63EC24F6FD2D00D471AC /* LoginScreenPractice */ = {
 			isa = PBXGroup;
 			children = (
-				63637C5F24F6DD2D005450B6 /* AppDelegate.swift */,
-				63637C6124F6DD2D005450B6 /* SceneDelegate.swift */,
-				63637C7324F6E076005450B6 /* ZStackPractice.swift */,
-				63637C6324F6DD2D005450B6 /* ContentView.swift */,
-				63637C6524F6DD2E005450B6 /* Assets.xcassets */,
-				63637C6A24F6DD2E005450B6 /* LaunchScreen.storyboard */,
-				63637C6D24F6DD2E005450B6 /* Info.plist */,
-				63637C6724F6DD2E005450B6 /* Preview Content */,
+				633D640124F6FDF000D471AC /* Login Screens */,
+				633D63ED24F6FD2D00D471AC /* AppDelegate.swift */,
+				633D63EF24F6FD2D00D471AC /* SceneDelegate.swift */,
+				633D63F124F6FD2D00D471AC /* ContentView.swift */,
+				633D63F324F6FD2E00D471AC /* Assets.xcassets */,
+				633D63F824F6FD2E00D471AC /* LaunchScreen.storyboard */,
+				633D63FB24F6FD2E00D471AC /* Info.plist */,
+				633D63F524F6FD2E00D471AC /* Preview Content */,
 			);
-			path = ZStackMastery;
+			path = LoginScreenPractice;
 			sourceTree = "<group>";
 		};
-		63637C6724F6DD2E005450B6 /* Preview Content */ = {
+		633D63F524F6FD2E00D471AC /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				63637C6824F6DD2E005450B6 /* Preview Assets.xcassets */,
+				633D63F624F6FD2E00D471AC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		633D640124F6FDF000D471AC /* Login Screens */ = {
+			isa = PBXGroup;
+			children = (
+				633D640224F6FE1000D471AC /* Login1.swift */,
+			);
+			path = "Login Screens";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		63637C5B24F6DD2D005450B6 /* ZStackMastery */ = {
+		633D63E924F6FD2D00D471AC /* LoginScreenPractice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 63637C7024F6DD2E005450B6 /* Build configuration list for PBXNativeTarget "ZStackMastery" */;
+			buildConfigurationList = 633D63FE24F6FD2E00D471AC /* Build configuration list for PBXNativeTarget "LoginScreenPractice" */;
 			buildPhases = (
-				63637C5824F6DD2D005450B6 /* Sources */,
-				63637C5924F6DD2D005450B6 /* Frameworks */,
-				63637C5A24F6DD2D005450B6 /* Resources */,
+				633D63E624F6FD2D00D471AC /* Sources */,
+				633D63E724F6FD2D00D471AC /* Frameworks */,
+				633D63E824F6FD2D00D471AC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ZStackMastery;
-			productName = ZStackMastery;
-			productReference = 63637C5C24F6DD2D005450B6 /* ZStackMastery.app */;
+			name = LoginScreenPractice;
+			productName = LoginScreenPractice;
+			productReference = 633D63EA24F6FD2D00D471AC /* LoginScreenPractice.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		63637C5424F6DD2D005450B6 /* Project object */ = {
+		633D63E224F6FD2D00D471AC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
-					63637C5B24F6DD2D005450B6 = {
+					633D63E924F6FD2D00D471AC = {
 						CreatedOnToolsVersion = 12.0;
 					};
 				};
 			};
-			buildConfigurationList = 63637C5724F6DD2D005450B6 /* Build configuration list for PBXProject "ZStackMastery" */;
+			buildConfigurationList = 633D63E524F6FD2D00D471AC /* Build configuration list for PBXProject "LoginScreenPractice" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -120,48 +128,48 @@
 				en,
 				Base,
 			);
-			mainGroup = 63637C5324F6DD2D005450B6;
-			productRefGroup = 63637C5D24F6DD2D005450B6 /* Products */;
+			mainGroup = 633D63E124F6FD2D00D471AC;
+			productRefGroup = 633D63EB24F6FD2D00D471AC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				63637C5B24F6DD2D005450B6 /* ZStackMastery */,
+				633D63E924F6FD2D00D471AC /* LoginScreenPractice */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		63637C5A24F6DD2D005450B6 /* Resources */ = {
+		633D63E824F6FD2D00D471AC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63637C6C24F6DD2E005450B6 /* LaunchScreen.storyboard in Resources */,
-				63637C6924F6DD2E005450B6 /* Preview Assets.xcassets in Resources */,
-				63637C6624F6DD2E005450B6 /* Assets.xcassets in Resources */,
+				633D63FA24F6FD2E00D471AC /* LaunchScreen.storyboard in Resources */,
+				633D63F724F6FD2E00D471AC /* Preview Assets.xcassets in Resources */,
+				633D63F424F6FD2E00D471AC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		63637C5824F6DD2D005450B6 /* Sources */ = {
+		633D63E624F6FD2D00D471AC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63637C6024F6DD2D005450B6 /* AppDelegate.swift in Sources */,
-				63637C6224F6DD2D005450B6 /* SceneDelegate.swift in Sources */,
-				63637C7424F6E076005450B6 /* ZStackPractice.swift in Sources */,
-				63637C6424F6DD2D005450B6 /* ContentView.swift in Sources */,
+				633D63EE24F6FD2D00D471AC /* AppDelegate.swift in Sources */,
+				633D640324F6FE1000D471AC /* Login1.swift in Sources */,
+				633D63F024F6FD2D00D471AC /* SceneDelegate.swift in Sources */,
+				633D63F224F6FD2D00D471AC /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		63637C6A24F6DD2E005450B6 /* LaunchScreen.storyboard */ = {
+		633D63F824F6FD2E00D471AC /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				63637C6B24F6DD2E005450B6 /* Base */,
+				633D63F924F6FD2E00D471AC /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -169,7 +177,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		63637C6E24F6DD2E005450B6 /* Debug */ = {
+		633D63FC24F6FD2E00D471AC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +238,7 @@
 			};
 			name = Debug;
 		};
-		63637C6F24F6DD2E005450B6 /* Release */ = {
+		633D63FD24F6FD2E00D471AC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,42 +293,42 @@
 			};
 			name = Release;
 		};
-		63637C7124F6DD2E005450B6 /* Debug */ = {
+		633D63FF24F6FD2E00D471AC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"ZStackMastery/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"LoginScreenPractice/Preview Content\"";
 				DEVELOPMENT_TEAM = P7DFWNNEL3;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = ZStackMastery/Info.plist;
+				INFOPLIST_FILE = LoginScreenPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.github.chadarutherford.ZStackMastery;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.chadarutherford.LoginScreenPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		63637C7224F6DD2E005450B6 /* Release */ = {
+		633D640024F6FD2E00D471AC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"ZStackMastery/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"LoginScreenPractice/Preview Content\"";
 				DEVELOPMENT_TEAM = P7DFWNNEL3;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = ZStackMastery/Info.plist;
+				INFOPLIST_FILE = LoginScreenPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.github.chadarutherford.ZStackMastery;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.chadarutherford.LoginScreenPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -330,25 +338,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		63637C5724F6DD2D005450B6 /* Build configuration list for PBXProject "ZStackMastery" */ = {
+		633D63E524F6FD2D00D471AC /* Build configuration list for PBXProject "LoginScreenPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				63637C6E24F6DD2E005450B6 /* Debug */,
-				63637C6F24F6DD2E005450B6 /* Release */,
+				633D63FC24F6FD2E00D471AC /* Debug */,
+				633D63FD24F6FD2E00D471AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63637C7024F6DD2E005450B6 /* Build configuration list for PBXNativeTarget "ZStackMastery" */ = {
+		633D63FE24F6FD2E00D471AC /* Build configuration list for PBXNativeTarget "LoginScreenPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				63637C7124F6DD2E005450B6 /* Debug */,
-				63637C7224F6DD2E005450B6 /* Release */,
+				633D63FF24F6FD2E00D471AC /* Debug */,
+				633D640024F6FD2E00D471AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 63637C5424F6DD2D005450B6 /* Project object */;
+	rootObject = 633D63E224F6FD2D00D471AC /* Project object */;
 }
