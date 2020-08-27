@@ -15,6 +15,8 @@
 		63CD38CC24F8148500C0F21C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63CD38CA24F8148500C0F21C /* LaunchScreen.storyboard */; };
 		63CD38D724F8158400C0F21C /* Login1Blueprint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CD38D624F8158400C0F21C /* Login1Blueprint.swift */; };
 		63CD38D924F8193B00C0F21C /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CD38D824F8193B00C0F21C /* Color+Ext.swift */; };
+		63CD38DB24F81B0F00C0F21C /* Login1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CD38DA24F81B0F00C0F21C /* Login1.swift */; };
+		63CD38DD24F8253E00C0F21C /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CD38DC24F8253E00C0F21C /* CustomTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		63CD38CD24F8148500C0F21C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63CD38D624F8158400C0F21C /* Login1Blueprint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login1Blueprint.swift; sourceTree = "<group>"; };
 		63CD38D824F8193B00C0F21C /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
+		63CD38DA24F81B0F00C0F21C /* Login1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login1.swift; sourceTree = "<group>"; };
+		63CD38DC24F8253E00C0F21C /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,13 +66,14 @@
 			children = (
 				63CD38D324F814B400C0F21C /* Login Screens */,
 				63CD38BF24F8148400C0F21C /* AppDelegate.swift */,
+				63CD38DC24F8253E00C0F21C /* CustomTextField.swift */,
+				63CD38D824F8193B00C0F21C /* Color+Ext.swift */,
 				63CD38C124F8148400C0F21C /* SceneDelegate.swift */,
 				63CD38C324F8148400C0F21C /* ContentView.swift */,
 				63CD38C524F8148500C0F21C /* Assets.xcassets */,
 				63CD38CA24F8148500C0F21C /* LaunchScreen.storyboard */,
 				63CD38CD24F8148500C0F21C /* Info.plist */,
 				63CD38C724F8148500C0F21C /* Preview Content */,
-				63CD38D824F8193B00C0F21C /* Color+Ext.swift */,
 			);
 			path = SwiftUIPortfolioScreens;
 			sourceTree = "<group>";
@@ -101,6 +106,7 @@
 		63CD38D524F814C300C0F21C /* Finished Screen */ = {
 			isa = PBXGroup;
 			children = (
+				63CD38DA24F81B0F00C0F21C /* Login1.swift */,
 			);
 			path = "Finished Screen";
 			sourceTree = "<group>";
@@ -175,9 +181,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63CD38DD24F8253E00C0F21C /* CustomTextField.swift in Sources */,
 				63CD38C024F8148400C0F21C /* AppDelegate.swift in Sources */,
 				63CD38D724F8158400C0F21C /* Login1Blueprint.swift in Sources */,
 				63CD38C224F8148400C0F21C /* SceneDelegate.swift in Sources */,
+				63CD38DB24F81B0F00C0F21C /* Login1.swift in Sources */,
 				63CD38C424F8148400C0F21C /* ContentView.swift in Sources */,
 				63CD38D924F8193B00C0F21C /* Color+Ext.swift in Sources */,
 			);

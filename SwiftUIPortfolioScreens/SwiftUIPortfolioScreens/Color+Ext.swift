@@ -9,4 +9,6 @@ import SwiftUI
 
 extension Color {
 	static let themeAccent = Color("AppAccentColor")
+	static let themeBackground = Color("AppBackgroundColor")
+	static let themeForeground = Color("AppForegroundColor")
 }
