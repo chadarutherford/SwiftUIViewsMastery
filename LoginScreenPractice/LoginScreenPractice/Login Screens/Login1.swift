@@ -42,12 +42,34 @@ struct Login1: View {
 				.foregroundColor(.themeSecondary)
 				
 				Spacer()
-				
-				TextField("Username:", text: $username)
-					.textFieldStyle(RoundedBorderTextFieldStyle())
-				
-				SecureField("Password:", text: $password)
-					.textFieldStyle(RoundedBorderTextFieldStyle())
+				Group {
+					HStack {
+						Image(systemName: "envelope.fill")
+							.foregroundColor(.themeSecondary)
+							.frame(width: 20)
+						TextField("Username:", text: $username)
+					}
+					.padding(8)
+					.background(
+						RoundedRectangle(cornerRadius: 5)
+							.stroke(Color.gray, lineWidth: 1)
+							.opacity(0.3)
+					)
+						
+					HStack {
+						Image(systemName: "lock.shield.fill")
+							.foregroundColor(.themeSecondary)
+							.frame(width: 20)
+						SecureField("Password:", text: $password)
+					}
+					.padding(8)
+					.background(
+						RoundedRectangle(cornerRadius: 5)
+							.stroke(Color.gray, lineWidth: 1)
+							.opacity(0.3)
+					)
+				}
+				.frame(maxWidth: 400)
 				
 				Spacer()
 				
@@ -74,7 +96,11 @@ struct Login1: View {
 
 struct Login1_Previews: PreviewProvider {
     static var previews: some View {
-        Login1()
-			.preferredColorScheme(.dark)
+		Group {
+			Login1()
+				.preferredColorScheme(.dark)
+			Login1()
+				.previewDevice("iPad Pro (12.9-inch) (4th generation)")
+		}
     }
 }
